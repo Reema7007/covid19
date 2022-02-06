@@ -1,0 +1,196 @@
+{
+  "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Resources/deployments/reema2001_1643986168625",
+  "name": "reema2001_1643986168625",
+  "type": "Microsoft.Resources/deployments",
+  "tags": {
+    "primaryResourceId": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourcegroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001",
+    "marketplaceItemId": "Microsoft.StorageAccount",
+    "provisioningHash": "Default"
+  },
+  "properties": {
+    "templateHash": "11967955552601955479",
+    "parameters": {
+      "location": {
+        "type": "String",
+        "value": "eastus"
+      },
+      "storageAccountName": {
+        "type": "String",
+        "value": "reema2001"
+      },
+      "accountType": {
+        "type": "String",
+        "value": "Standard_RAGRS"
+      },
+      "kind": {
+        "type": "String",
+        "value": "StorageV2"
+      },
+      "accessTier": {
+        "type": "String",
+        "value": "Hot"
+      },
+      "minimumTlsVersion": {
+        "type": "String",
+        "value": "TLS1_2"
+      },
+      "supportsHttpsTrafficOnly": {
+        "type": "Bool",
+        "value": true
+      },
+      "allowBlobPublicAccess": {
+        "type": "Bool",
+        "value": true
+      },
+      "allowSharedKeyAccess": {
+        "type": "Bool",
+        "value": true
+      },
+      "allowCrossTenantReplication": {
+        "type": "Bool",
+        "value": true
+      },
+      "defaultOAuth": {
+        "type": "Bool",
+        "value": false
+      },
+      "networkAclsBypass": {
+        "type": "String",
+        "value": "AzureServices"
+      },
+      "networkAclsDefaultAction": {
+        "type": "String",
+        "value": "Allow"
+      },
+      "keySource": {
+        "type": "String",
+        "value": "Microsoft.Storage"
+      },
+      "encryptionEnabled": {
+        "type": "Bool",
+        "value": true
+      },
+      "keyTypeForTableAndQueueEncryption": {
+        "type": "String",
+        "value": "Account"
+      },
+      "infrastructureEncryptionEnabled": {
+        "type": "Bool",
+        "value": false
+      },
+      "isContainerRestoreEnabled": {
+        "type": "Bool",
+        "value": false
+      },
+      "isBlobSoftDeleteEnabled": {
+        "type": "Bool",
+        "value": true
+      },
+      "blobSoftDeleteRetentionDays": {
+        "type": "Int",
+        "value": 7
+      },
+      "isContainerSoftDeleteEnabled": {
+        "type": "Bool",
+        "value": true
+      },
+      "containerSoftDeleteRetentionDays": {
+        "type": "Int",
+        "value": 7
+      },
+      "changeFeed": {
+        "type": "Bool",
+        "value": false
+      },
+      "isVersioningEnabled": {
+        "type": "Bool",
+        "value": false
+      },
+      "isShareSoftDeleteEnabled": {
+        "type": "Bool",
+        "value": true
+      },
+      "shareSoftDeleteRetentionDays": {
+        "type": "Int",
+        "value": 7
+      }
+    },
+    "mode": "Incremental",
+    "debugSetting": {
+      "detailLevel": "None"
+    },
+    "provisioningState": "Succeeded",
+    "timestamp": "2022-02-04T14:50:11.5165683Z",
+    "duration": "PT33.3076158S",
+    "correlationId": "a6d98226-cbed-405e-aa75-f0f743dec995",
+    "providers": [
+      {
+        "namespace": "Microsoft.Storage",
+        "resourceTypes": [
+          {
+            "resourceType": "storageAccounts",
+            "locations": [
+              "eastus"
+            ]
+          },
+          {
+            "resourceType": "storageAccounts/blobServices",
+            "locations": [
+              null
+            ]
+          },
+          {
+            "resourceType": "storageAccounts/fileservices",
+            "locations": [
+              null
+            ]
+          }
+        ]
+      }
+    ],
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001",
+            "resourceType": "Microsoft.Storage/storageAccounts",
+            "resourceName": "reema2001"
+          }
+        ],
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/blobServices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/blobServices",
+        "resourceName": "reema2001/default"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001",
+            "resourceType": "Microsoft.Storage/storageAccounts",
+            "resourceName": "reema2001"
+          },
+          {
+            "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/blobServices/default",
+            "resourceType": "Microsoft.Storage/storageAccounts/blobServices",
+            "resourceName": "reema2001/default"
+          }
+        ],
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/fileservices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/fileservices",
+        "resourceName": "reema2001/default"
+      }
+    ],
+    "outputs": {},
+    "outputResources": [
+      {
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001"
+      },
+      {
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/blobServices/default"
+      },
+      {
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/fileservices/default"
+      }
+    ],
+    "validationLevel": "Template"
+  }
+}

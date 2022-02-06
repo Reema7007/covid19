@@ -1,0 +1,68 @@
+[
+  {
+    "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Resources/deployments/reema2001_1643986168625/operations/8B92B4B5222A5B80",
+    "operationId": "8B92B4B5222A5B80",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-02-04T14:50:11.3985419Z",
+      "duration": "PT31.7000274S",
+      "trackingId": "c8ba777a-391a-4dbd-a687-9433d9f76a38",
+      "serviceRequestId": "7a287f25-43ad-461e-b8e9-7f907a6e2051",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/fileservices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/fileservices",
+        "resourceName": "reema2001/default"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Resources/deployments/reema2001_1643986168625/operations/C85AB5D99ACE5860",
+    "operationId": "C85AB5D99ACE5860",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-02-04T14:50:11.0069269Z",
+      "duration": "PT31.3084124S",
+      "trackingId": "f5ce1dd0-7a4b-4c62-8ef5-325d4d0f1b6f",
+      "serviceRequestId": "ee3c33ff-16c0-42f3-a06d-c3dd01d7bc44",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001/blobServices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/blobServices",
+        "resourceName": "reema2001/default"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Resources/deployments/reema2001_1643986168625/operations/58835B9AF602A807",
+    "operationId": "58835B9AF602A807",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-02-04T14:50:09.226293Z",
+      "duration": "PT29.5277785S",
+      "trackingId": "605c0f91-e7b2-4640-8e87-cd258058816c",
+      "serviceRequestId": "4a6b3c56-9ea4-4cfd-a6ea-6f0819e9fe45",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Storage/storageAccounts/reema2001",
+        "resourceType": "Microsoft.Storage/storageAccounts",
+        "resourceName": "reema2001"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/449f8eb9-25a1-46cc-af79-36fb099ec89a/resourceGroups/QnABotCovid19123/providers/Microsoft.Resources/deployments/reema2001_1643986168625/operations/08585576207093411932",
+    "operationId": "08585576207093411932",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-02-04T14:50:11.4892906Z",
+      "duration": "PT31.7907761S",
+      "trackingId": "fee09360-d7aa-40d7-ad7e-8de078cf7596",
+      "statusCode": "OK"
+    }
+  }
+]
