@@ -11,9 +11,6 @@ The problem which can be solved are-1)Firstly, the most prevalent purpose was di
 ![Screenshot (1279)](https://user-images.githubusercontent.com/98814220/154089949-40918bbf-9933-413e-b0df-7d2653fa9fdc.png)
 ![Screenshot (1280)](https://user-images.githubusercontent.com/98814220/154090003-9622f1bb-6264-4b1f-9581-0b4054de2719.png)
 ![Screenshot (1281)](https://user-images.githubusercontent.com/98814220/154090038-495f1236-68e8-4896-9339-c75c8e7dd8a7.png)
-![Screenshot (1282)](https://user-images.githubusercontent.com/98814220/154090057-7abd8bf5-a38f-4af9-8eac-590f7a9c1
-![Screenshot (1283)](https://user-images.githubusercontent.com/98814220/154090083-fa1143ed-2a80-4139-ad
-
 
 # Project Link
 https://reema2001.z13.web.core.windows.net/  Tap here to view.Thankyou!
