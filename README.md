@@ -6,7 +6,7 @@ The problem which can be solved are
 -1)Firstly, the most prevalent purpose was disseminating health information and knowledge. Health chatbots were equipped with various health educational materials and information about COVID-19 symptoms, medication, precautionary measures (e.g. cleaning hands, wearing face masks, etc.).
 -2)Secondly, health chatbots were utilized as self-triage and personal risk assessment tools during the COVID-19 pandemic.Additionally, health chatbots show nearby medical services (e.g. drive-through testing centers) and list emergency or hotline numbers for further personal risk assessment.
 -3) health chatbots were developed to track health symptoms and mental well-being characteristics associated with the pandemic. For example, an application with a chatbot was developed to record health factors such as nutrition, physical activity, etc. during mandated self-isolation periods.The use of health chatbots to combat COVID-19 is still in its infancy.
- I have used the Azure Static Web to Tell About the project you can click on button given below to take deployed place.
+##  I have used the Azure Static Web to Tell About the project you can click on button given below to take deployed place.
  
 # Screen Shots of my Project
 
