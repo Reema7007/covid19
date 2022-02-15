@@ -13,8 +13,6 @@ The problem which can be solved are-1)Firstly, the most prevalent purpose was di
 
 ![Screenshot (1280)](https://user-images.githubusercontent.com/98814220/154090003-9622f1bb-6264-4b1f-9581-0b4054de2719.png)
 
-![Screenshot (1281)](https://user-images.githubusercontent.com/98814220/154090038-495f1236-68e8-4896-9339-c75c8e7dd8a7.png)
-
 ![Screenshot (1282)](https://user-images.githubusercontent.com/98814220/154092909-8d5934d0-cba7-4cc9-803d-244e2f2da589.png)
 
 ![Screenshot (1283)](https://user-images.githubusercontent.com/98814220/154092958-86071e68-4985-4211-8401-16f57df2ad84.png)
