@@ -1,11 +1,15 @@
 # Corona Chatbot
-ABOUT THE PROJECT
 
-Deploying a Azure chatbot which will be very smart enough to provide the proper and clear guidelines for Covid-19. It can help to provide the better suggestions to people. COVID‐19 and SARS coronavirus are similar and because it is becoming a big threat to human civilization as consequences, online awareness programs were initiated.COVID‐19, which was initiated regionally at Wuhan of China, has become a global pandemic by infecting people of almost all the world. Human civilizations are facing threat for their survival and livelihood. No country are getting any substantial relief and solution from this pandemic rather to convince their citizens to make aware and taking precaution by changing their living style. In view of this, this study attempted to assess the awareness, threat, symptoms and its prevention among people of India about the COVID‐19.
-The problem which can be solved are
--1)Firstly, the most prevalent purpose was disseminating health information and knowledge. Health chatbots were equipped with various health educational materials and information about COVID-19 symptoms, medication, precautionary measures (e.g. cleaning hands, wearing face masks, etc.).
--2)Secondly, health chatbots were utilized as self-triage and personal risk assessment tools during the COVID-19 pandemic.Additionally, health chatbots show nearby medical services (e.g. drive-through testing centers) and list emergency or hotline numbers for further personal risk assessment.
--3) health chatbots were developed to track health symptoms and mental well-being characteristics associated with the pandemic. For example, an application with a chatbot was developed to record health factors such as nutrition, physical activity, etc. during mandated self-isolation periods.The use of health chatbots to combat COVID-19 is still in its infancy.
+This porject is about the website which is made for thr purpose of Covid update to users.
+##  Problem Statement
+From the year 2019,people all around the world facing difficulties with Covid-19 Virus. But people were unable to get updates about Covid-19 to keep themselves safe from crisis for this issue. I have develop a website this bot services which can clarify all the queries about Covid-19.
+##  Project Description
+The core idea of this project is to clarify the queries about Covid-19.People can get their queries clarified within minutes using this website. This website is integrated with bot services.This bot is developed with QnA Maker which is one of the services of Microsoft Azure.Users can easily interact with bot via chat using this bot.User can get instant information about Covid-19 and Vaccine.
+# Azure Services which I used in this Project
+1. QnA Maker
+2. Azure Bot Service 
+3. Static Web Apps 
+ 
 ##  I have used the Azure Static Web to Tell About the Project you can scroll down and click on project link to take deployed place.
  
 # Screen Shots of my Project
