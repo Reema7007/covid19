@@ -1,6 +1,6 @@
 # Corona Chatbot
 
-This porject is about the website which is made for thr purpose of Covid update to users.
+This porject is about the website which is made for the purpose of Covid update to users.
 ##  Problem Statement
 From the year 2019,people all around the world facing difficulties with Covid-19 Virus. But people were unable to get updates about Covid-19 to keep themselves safe from crisis for this issue. I have develop a website this bot services which can clarify all the queries about Covid-19.
 ##  Project Description
@@ -9,6 +9,19 @@ The core idea of this project is to clarify the queries about Covid-19.People ca
 1. QnA Maker
 2. Azure Bot Service 
 3. Static Web Apps 
+For creating question and answer pair ,I have used QnA Maker.I integrated QnA Maker with Web App bot . Then for hosting I have used Static Web App Service. Azure Static Web Apps is a service that automatically builds and deploys full stack web Apps to Azure from a code repository.
+##  1.QnA Maker
+QnA Maker is a cloud-based Natural Language Processing(NLP) service that allows you to create a natural conversational layer over your data.It is used to find the most appropriate answer for any input from your custom knowledge base(KB) of information.QnA Maker is commonaly used to build conversational client Applications,which include social media applications,chat bots,and Speech-enabled desktop applications.
+##  2.Azure Bot Services
+Azure Bot Service offers the ability to add intelligent agents that are capable of conversation without having to commit the resources to develop one's own AI.The platform gives bot developers a Software Development Kit(SDK) and tools to add bots to sites in the form of Azure Bot Builders are automatically added to Microsoft dirctory.
+Azure Bot Service also offers more advanced features through cognitive services such as:
+1.Scaling to support growth
+2.Ability to make smart recommendation
+3.Language translation
+4.Use of machine vision to recognize users from pictures and to moderate content.
+##  3.Azure Static Web Apps
+Following
+
  
 ##  I have used the Azure Static Web to Tell About the Project you can scroll down and click on project link to take deployed place.
  
