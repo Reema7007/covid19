@@ -11,20 +11,29 @@ The core idea of this project is to clarify the queries about Covid-19.People ca
 3. Static Web Apps
  
 For creating question and answer pair ,I have used QnA Maker.I integrated QnA Maker with Web App bot . Then for hosting I have used Static Web App Service. Azure Static Web Apps is a service that automatically builds and deploys full stack web Apps to Azure from a code repository.
-##  1.QnA Maker
+##  1. QnA Maker
 QnA Maker is a cloud-based Natural Language Processing(NLP) service that allows you to create a natural conversational layer over your data.It is used to find the most appropriate answer for any input from your custom knowledge base(KB) of information.QnA Maker is commonaly used to build conversational client Applications,which include social media applications,chat bots,and Speech-enabled desktop applications.
-##  2.Azure Bot Services
+##  2. Azure Bot Services
 Azure Bot Service offers the ability to add intelligent agents that are capable of conversation without having to commit the resources to develop one's own AI.The platform gives bot developers a Software Development Kit(SDK) and tools to add bots to sites in the form of Azure Bot Builders are automatically added to Microsoft dirctory.
 Azure Bot Service also offers more advanced features through cognitive services such as:
-1.Scaling to support growth
-2.Ability to make smart recommendation
-3.Language translation
-4.Use of machine vision to recognize users from pictures and to moderate content.
-##  3.Azure Static Web Apps
-Following
-
+1. Scaling to support growth
+2. Ability to make smart recommendation
+3. Language translation
+4. Use of machine vision to recognize users from pictures and to moderate content.
+##  3. Azure Static Web Apps
+Following are some key features of Azure Static Web Apps that made me choose this service:
+1. Web hosting for static control like HTML,CSS,JavaScript and images.
+2. Integration API support provided by Azure functions with the option to link an existing Azure functions app using a standard account.
+3. First-class GitHub and Azure DevOpps integration where repository changes trigger builds and deployments.
+4. Globally ditributed static content,putting content closer to your users.
+5. Free SSL Certificates,which are automatically renewed.
+6. Custom domains provide branded curtomization to your app.
+7. Seamless Security model with a reverse-proxy when calling APIs,which requires to CORS configuration.
+8. Authentication provider integratoins with Azure Active Directory,GitHub,and Twitter.
+9. Customizable authorization role definition and assignments.
+10. Back-end routing rules enabling full control over the content and routes you serve.
  
-##  I have used the Azure Static Web to Tell About the Project you can scroll down and click on project link to take deployed place.
+###   I have used the Azure Static Web to Tell About the Project you can scroll down and click on project link to take deployed place.
  
 # Screen Shots of my Project
 
