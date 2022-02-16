@@ -8,7 +8,7 @@ The core idea of this project is to clarify the queries about Covid-19.People ca
 ##  Azure Services which I used in this Project
 1. QnA Maker
 2. Azure Bot Service 
-3. Static Web Apps
+3. Azure Static Web Apps
  
 For creating question and answer pair ,I have used QnA Maker.I integrated QnA Maker with Web App bot . Then for hosting I have used Static Web App Service. Azure Static Web Apps is a service that automatically builds and deploys full stack web Apps to Azure from a code repository.
 ##  1. QnA Maker
