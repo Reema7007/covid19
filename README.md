@@ -5,7 +5,7 @@ This porject is about the website which is made for the purpose of Covid update 
 From the year 2019,people all around the world facing difficulties with Covid-19 Virus. But people were unable to get updates about Covid-19 to keep themselves safe from crisis for this issue. I have develop a website this bot services which can clarify all the queries about Covid-19.
 ##  Project Description
 The core idea of this project is to clarify the queries about Covid-19.People can get their queries clarified within minutes using this website. This website is integrated with bot services.This bot is developed with QnA Maker which is one of the services of Microsoft Azure.Users can easily interact with bot via chat using this bot.User can get instant information about Covid-19 and Vaccine.
-# Azure Services which I used in this Project
+##  Azure Services which I used in this Project
 1. QnA Maker
 2. Azure Bot Service 
 3. Static Web Apps
